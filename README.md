@@ -1,4 +1,4 @@
-# projec-planner
+# project-planner
 
 ## Project setup
 ```
